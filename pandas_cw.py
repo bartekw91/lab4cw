@@ -25,3 +25,4 @@ print(df['Populacja'])  # Pokaż wartośc w kluczu Populacja
 print(df.iloc[0, 0])  # Pokaż położenie 1x1
 print(df.loc[0, "Kraj"])  # Pokaż położenie 1 w słowniku Kraj
 print(df.at[0, "Populacja"])  # Pokaż położenie 1 w słowniku Populacja
+
